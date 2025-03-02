@@ -10,7 +10,6 @@ Git is required to clone the project repository.
     - Open Command Prompt
     - Type `git --version` and press Enter. If Git is installed correctly, it will display the installed version.
 
----
 
 ### **2. Install Python**
 
@@ -20,7 +19,6 @@ Python is required to run the Crop Detector project.
     - Open Command Prompt.
     - Type `python --version` and press Enter. It should display the installed version of Python[^3][^6].
 
----
 
 ### **3. Install Miniconda**
 
@@ -30,7 +28,6 @@ Miniconda is required to manage dependencies in an isolated environment.
     - Open Command Prompt.
     - Type `conda --version` and press Enter to confirm that Miniconda is installed[^4][^7].
 
----
 
 ### **4. Clone the Repository**
 
@@ -49,7 +46,6 @@ cd crop-detector
 ```
 
 
----
 
 ### **5. Set Up a Conda Environment**
 
@@ -66,7 +62,6 @@ conda activate crop-detector
 ```
 
 
----
 
 ### **6. Install Project Dependencies**
 
@@ -77,7 +72,6 @@ pip install -r requirements.txt
 ```
 
 
----
 
 ### **7. Run the Project**
 
@@ -87,4 +81,3 @@ pip install -r requirements.txt
 python app.py
 ```
 
----
