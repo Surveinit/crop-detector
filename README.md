@@ -12,6 +12,7 @@
 ```conda activate crop-detector```
 #### OR
 ```source ~/miniconda3/etc/profile.d/conda.sh```
+```conda activate crop-detector```
 
 ### Install requirements
 ```pip install -r requirements.txt```
