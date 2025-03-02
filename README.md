@@ -1,16 +1,16 @@
 # AI based crop detector
 
-## Pre requisites
+## 1. Pre requisites
 - Git
 - Python
 - miniconda
 
-### Create environment
+### 2. Create environment
 ```
 conda create -n crop-detector python=3.6.12
 ```
 
-### Activate environment
+### 3. Activate environment
 ```
 conda activate crop-detector
 ```
@@ -22,12 +22,12 @@ source ~/miniconda3/etc/profile.d/conda.sh
 conda activate crop-detector
 ```
 
-### Install requirements
+### 4. Install requirements
 ```
 pip install -r requirements.txt
 ```
 
-### Run
+### 5. Run
 ```
 python app.py
 ```
