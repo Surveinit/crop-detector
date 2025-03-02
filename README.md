@@ -6,16 +6,28 @@
 - miniconda
 
 ### Create environment
-```conda create -n crop-detector python=3.6.12```
+```
+conda create -n crop-detector python=3.6.12
+```
 
 ### Activate environment
-```conda activate crop-detector```
+```
+conda activate crop-detector
+```
 #### OR
-```source ~/miniconda3/etc/profile.d/conda.sh```
-```conda activate crop-detector```
+```
+source ~/miniconda3/etc/profile.d/conda.sh
+```
+```
+conda activate crop-detector
+```
 
 ### Install requirements
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 ### Run
-```python app.py```
+```
+python app.py
+```
